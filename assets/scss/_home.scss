@@ -1,0 +1,50 @@
+#home {
+  .bitcoin-logo {
+    width: 100%;
+  }
+
+  h2 {
+    color: white;
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 2rem 0;
+  }
+
+  label {
+    display: block;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #544cb9;
+    margin-bottom: 20px;
+  }
+
+  input[type="text"] {
+    background: transparent;
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: white;
+    font-weight: 100;
+  }
+
+  button {
+    background: #304ffe;
+    padding: 10px 15px;
+    font-size: 1.5rem;
+    border: none;
+    float: right;
+    color: white;
+    font-weight: 300;
+  }
+
+  .react-datepicker-wrapper,
+  .react-datepicker__input-container {
+    width: 100%;
+
+    input {
+      width: 100%;
+    }
+  }
+}
