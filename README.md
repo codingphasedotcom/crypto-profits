@@ -1,4 +1,4 @@
-# Dev-Starter-Kit
+# How Web Developers Make Passive Income with React JS? - Crypto Profits Project
  *For My Students* 
 If you are doing any of my courses make sure you are using the right version this project is using gulp version 4.0.1 to view previous versions switch branches to older version
 
